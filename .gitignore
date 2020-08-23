@@ -1,5 +1,5 @@
 # dependencies
 /node_modules
-/config/auth.js
+./config/auth.js
 
 
